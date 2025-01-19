@@ -59,7 +59,7 @@ background-color:#e9113c !important;
 }
 .wrap.svelte-17aq4sd {
   background:url(https://raw.githubusercontent.com/lacostique/css/refs/heads/main/limbo-back.svg);
-  background-size:900px;
+  background-size:contain;
   background-repeat:no-repeat;  
 }
 /* limbo стайл */
