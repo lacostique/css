@@ -216,7 +216,7 @@ grid-template-columns: repeat(5,auto) !important;
   display: none;
 }
 .hit-odds.svelte-1a2e0sn {
-  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' background-repeat='no-repeat' height='50px' width='458px' ><text x='150' y='30' font-family='proxima-nova, sans-serif' font-weight='bold' fill='rgb(177,186,211)' font-size='14'>Нахуя вам 40 клеток, когда играет только 5?</text></svg>");
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' background-repeat='no-repeat' height='50px' width='458px' ><text x='150' y='30' font-family='proxima-nova, sans-serif' font-weight='bold' fill='rgb(177,186,211)' font-size='14'>Зачем вам 40 клеток, когда играет только 5?</text></svg>");
   background-repeat: no-repeat;
   background-position:center;
   display: flex;
