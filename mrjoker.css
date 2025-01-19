@@ -3,20 +3,20 @@
 .stack.x-flex-start.y-center.gap-smaller.padding-none.direction-horizontal.padding-left-auto.padding-top-auto.padding-bottom-auto.padding-right-auto.svelte-1cd1boi {
     background-image: url(https://static.tildacdn.info/tild6536-3864-4661-b030-316436333034/mrjokeranim.svg);
     background-repeat: no-repeat;
-    background-size: 87px;
-    background-position-x: 80px;
-    background-position-y: 0px;
+    background-size: 200px;
+    background-position-x: 85px;
+    background-position-y: 8px;
   
 }
 
 .svelte-mttlx3 > div:nth-child(2) > img{
-      background-image: url(https://static.tildacdn.info/tild6536-3864-4661-b030-316436333034/mrjokeranim.svg);
+    background-image: url(https://static.tildacdn.info/tild6536-3864-4661-b030-316436333034/mrjokeranim.svg);
     background-repeat: no-repeat;
-    background-size: 87px;
-    background-position-x: 200px;
-    background-position-y: 0px;
-    width:300px;
-    height:36px;
+    background-size: 170px;
+    background-position-x: 270px;
+    background-position-y: 10px;
+    width: 442px;
+    height: 36px;
     filter: brightness(100) opacity(0.2);
 }
 
