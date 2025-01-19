@@ -1,0 +1,255 @@
+/* logo стайл */
+
+.stack.x-flex-start.y-center.gap-smaller.padding-none.direction-horizontal.padding-left-auto.padding-top-auto.padding-bottom-auto.padding-right-auto.svelte-1cd1boi {
+    background-image: url(https://static.tildacdn.info/tild6536-3864-4661-b030-316436333034/mrjokeranim.svg);
+    background-repeat: no-repeat;
+    background-size: 87px;
+    background-position-x: 80px;
+    background-position-y: 0px;
+  
+}
+
+.svelte-mttlx3 > div:nth-child(2) > img{
+      background-image: url(https://static.tildacdn.info/tild6536-3864-4661-b030-316436333034/mrjokeranim.svg);
+    background-repeat: no-repeat;
+    background-size: 87px;
+    background-position-x: 200px;
+    background-position-y: 0px;
+    width:300px;
+    height:36px;
+    filter: brightness(100) opacity(0.2);
+}
+
+/* logo стайл */
+
+/* balloon стайл */
+.balloon-motion {
+    opacity: 0
+}
+.multiplier.svelte-1aff7gt {
+        background-color: #df0909;
+    height: 40px;
+    width: 40px;
+    border-radius: 23px;
+    padding-top: 15px;
+    font-size: 9px;
+    margin-top: 7px;
+    text-align: center; 
+}
+.pop-motion.svelte-1aff7gt {
+  width:65%;
+   content: url(https://static.tildacdn.com/tild3436-6363-4334-b664-613466643663/jokerbaloon2.svg) !important;
+    margin-bottom: 10px;
+    background-repeat: no-repeat
+}
+.gem.revealed.svelte-1g8kcgj {
+    width: 100%;
+    content: url(https://static.tildacdn.com/tild3331-3439-4338-b261-373330376339/232.gif) !important;
+    margin-top:0px;
+    background-repeat: no-repeat;
+}
+.gem.svelte-1g8kcgj:not(.revealed) {
+  background-image: url("https://static.tildacdn.com/tild6535-3731-4637-b166-306433316162/213123.png");
+}
+/* balloon стайл */
+
+/* limbo стайл */
+.bet_f {
+background-color:#e9113c !important;  
+}
+.wrap.svelte-17aq4sd {
+  background:url(https://static.tildacdn.com/tild3839-3939-4332-b964-323036363633/Ex2.svg);
+  background-size:900px;
+  background-repeat:no-repeat;  
+}
+/* limbo стайл */
+
+/* Dice */
+.lower.above.svelte-ck6zcq {
+background: linear-gradient(90deg, rgba(0,74,0,1) 0%, rgba(0,231,1,1) 50%, rgba(212,255,212,1) 100%);
+}
+.higher.above.svelte-ck6zcq {
+mix-blend-mode: hue;
+}
+.lower.below.svelte-ck6zcq {
+    background: linear-gradient(90deg, #ffd6de 0%, #e9113c 50%, #34000a 100%);
+}
+.higher.below.svelte-ck6zcq {
+mix-blend-mode: hue;
+}
+/* Dice */
+
+
+/* ремув кено */
+div.content.svelte-dpdqlo > button:nth-child(6) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(7) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(8) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(9) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(10) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(11) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(12) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(13) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(14) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(15) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(16) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(17) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(18) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(19) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(20) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(21) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(15) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(16) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(17) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(18) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(19) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(20) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(21) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(22) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(23) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(24) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(25) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(26) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(27) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(28) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(29) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(30) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(31) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(32) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(33) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(34) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(35) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(36) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(37) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(38) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(39) {
+display:none;
+}
+div.content.svelte-dpdqlo > button:nth-child(40) {
+display:none;
+}
+div.content.svelte-dpdqlo {
+grid-template-columns: repeat(5,auto) !important;
+
+}
+
+.explanation.svelte-1a2e0sn {
+  display: none;
+}
+.hit-odds.svelte-1a2e0sn {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' background-repeat='no-repeat' height='50px' width='458px' ><text x='150' y='30' font-family='proxima-nova, sans-serif' font-weight='bold' fill='rgb(177,186,211)' font-size='14'>Нахуя вам 40 клеток, когда играет только 5?</text></svg>");
+  background-repeat: no-repeat;
+  background-position:center;
+  display: flex;
+}
+
+.hit.svelte-10nxof4 {
+padding: 0px 7px;
+}
+
+.hit.svelte-10nxof4:nth-child(1) {
+  display:none;
+}
+.hit.svelte-10nxof4:nth-child(7) {
+  display:none;
+}
+.hit.svelte-10nxof4:nth-child(8) {
+  display:none;
+}
+.hit.svelte-10nxof4:nth-child(9) {
+  display:none;
+}
+.hit.svelte-10nxof4:nth-child(10) {
+  display:none;
+}
+.hit.svelte-10nxof4:nth-child(11) {
+  display:none;
+}
+.wrap.svelte-dpdqlo {    background-image: url(https://static.tildacdn.com/tild6535-3731-4637-b166-306433316162/213123.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 900px;
+}
+.content.svelte-dpdqlo {
+  margin-top:30px;
+}
+/* ремув кено */
